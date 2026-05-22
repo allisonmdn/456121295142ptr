@@ -1,1 +1,1 @@
-1 Patch/data/patch1.thor
+1 data/patch1.thor
