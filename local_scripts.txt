@@ -1,0 +1,8 @@
+====JOBS ITEM MALL====
+
+Add in File
+npc/scripts_custom.config
+
+Location script custom
+npc: npc/custom/itemjobsmall.txt
+=================================
